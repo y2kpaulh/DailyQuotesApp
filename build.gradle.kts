@@ -2,7 +2,7 @@
 buildscript {
     val kotlin_version = "1.4.32"
 
-    val hiltVersion by rootProject.extra { "2.38.1" }
+    val hiltVersion by rootProject.extra { "2.44" }
 
     repositories {
         google()
